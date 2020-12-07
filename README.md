@@ -42,6 +42,7 @@
 
 
 ### Team - sarpal465_37eb
+### Mentor: Mr. Imtiyaz Inamdar
 ### Members:
 * Rajendra Sarpal(AI/ML)
 * Vishant Nambiar(Web Developer)
