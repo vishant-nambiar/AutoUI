@@ -1,0 +1,80 @@
+intents:
+  - upward
+  - downward
+  - rightward
+  - leftward
+  - switch
+  - landgear
+  - mapview
+  - mainmenu
+  - pause
+  - screenshot
+  - gamequit
+  - engineup
+  - enginedown
+  - brakes
+
+entities:
+  - upward
+  - downward
+  - rightward
+  - leftward
+  - switch
+  - landgear
+  - mapview
+  - mainmenu
+  - pause
+  - screenshot
+  - gamequit
+  - engineup
+  - enginedown
+  - brakes
+
+
+actions:
+ - action_hello_world
+
+responses:
+  utter_upward:
+  - text: "Going Upward"
+
+  utter_downward:
+  - text: "Going Downward"
+
+  utter_leftward:
+  - text: "Going Leftward"
+
+  utter_rightward:
+  - text: "Going Rightward"
+
+  utter_switch:
+  - text: "Switching Camera View"
+
+  utter_landgear:
+  - text: "Landing Gear Used"
+
+  utter_mapview:
+  - text: "Opening Map Views"
+
+  utter_mainmenu:
+  - text: "Opening Main Menu"
+
+  utter_pause:
+  - text: "Pause/Continue the Game"
+
+  utter_screenshot:
+  - text: "Taking & Saving ScreenShot"
+
+  utter_gamequit:
+  - text: "Exiting from the Game"
+
+  utter_engineup:
+  - text: "Engine Thrust ON"
+
+  utter_enginedown:
+  - text: "Engine Thrust OFF"
+
+  utter_brakes:
+  - text: "Applying Brakes"
+
+  
