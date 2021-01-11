@@ -19,6 +19,16 @@ import pyautogui
 
 SendInput = ctypes.windll.user32.SendInput
 
+W = 0x11
+A = 0x1E
+S = 0x1F
+D = 0x20
+UP = 0xC8
+LEFT = 0xCB
+RIGHT = 0xCD
+DOWN = 0xD0
+ENTER = 0x1C
+ESC = 0x01
 
 PUL = ctypes.POINTER(ctypes.c_ulong)
 
