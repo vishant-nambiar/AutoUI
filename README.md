@@ -12,6 +12,13 @@
 * json
 * speech recognition
 * subprocess
+* openvino
+* opencv
+* numpy
+* os
+* logging
+* math
+
 
 ## RASA(NLP)
 
@@ -20,6 +27,10 @@
 * Lexical Syntactic Featurizer
 * Count Vectors Featurizer
 * DIET Classifier
+
+## Computer Vision
+* OpenVino
+* OpenCV
 
 ## Steps to Run
 * Download & Open 'Extreme landings' Game from Windows Store
